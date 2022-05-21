@@ -3,9 +3,9 @@
 
 ## ABOUT
 
-In this app you can perform force-time analysis of vertical jumps (squat jumps and counter movement jumps) for groups of athletes. 
+In this app you can perform force-time analysis for two trials of vertical jumps (squat jump or counter movement jump) for groups of athletes. 
 
-The goal is to speed up the (manual) process of analyzing outputs from contact platforms and provide an automatic solution to cut the data, normalize time, generate plots for each group and make statistical test.
+The goal is to speed up the (manual) process of analyzing outputs from contact platforms and provide an automatic solution: to cut the data, normalize time, generate plots for each group and make statistical test.
 
 #### How does it work? 
 
@@ -15,9 +15,9 @@ The goal is to speed up the (manual) process of analyzing outputs from contact p
 4. Statistical Parametric Mapping is performed for 0.05 significance level using parametric or nonparametric test, depending on prior normality check. 
 
 ## HOW TO RUN THE TEST
-1. In Select jump type field choose on dropdown jump type which you want to test (Squat jump or Counter movement jump)
-2. In Upload files for first trial, select from your drive .xlsx files with data for entire group (IMPORTANT! Files must contain only 2 columns with force values from contact platforms. Minimum number of files to perform the test is 2)
-3. In Upload files for second trial, select from your drive .xlsx files with data for entire group (IMPORTANT! Files must contain only 2 columns with force values from contact platforms. Minimum number of files to perform the test is 2)
+1. In Select jump type field choose jump type which you want to test (Squat jump or Counter movement jump)
+2. In Upload files for first trial, select from your drive .xlsx files with data for entire group performing first trial (IMPORTANT! Files must contain only 2 columns with force values from contact platforms. Minimum group size to perform the test is 2)
+3. In Upload files for second trial, select from your drive .xlsx files with data for entire group performing second trial (IMPORTANT! Files must contain only 2 columns with force values from contact platforms. Minimum group size to perform the test is 2)
 4. Click 'RUN TEST' to see the results of SPM test - plots and intervals where differences occurred.
  
 ---

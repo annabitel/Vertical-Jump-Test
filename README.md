@@ -19,7 +19,9 @@ The goal is to speed up the (manual) process of analyzing outputs from contact p
 2. In Upload files for first trial, select from your drive .xlsx files with data for entire group performing first trial (IMPORTANT! Files must contain only 2 columns with force values from contact platforms. Minimum group size to perform the test is 2)
 3. In Upload files for second trial, select from your drive .xlsx files with data for entire group performing second trial (IMPORTANT! Files must contain only 2 columns with force values from contact platforms. Minimum group size to perform the test is 2)
 4. Click 'RUN TEST' to see the results of SPM test - plots and intervals where differences occurred.
- 
+
+Sample test files are available in test_files folder.
+
 ---
 
 Test designed in cooperation with [Amit Batra](https://amitbatra.pl/) 

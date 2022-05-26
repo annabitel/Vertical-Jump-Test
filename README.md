@@ -1,10 +1,6 @@
-## Launch using: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annabednarska/Vertical-Jump-Test/HEAD?urlpath=voila%2Frender%2Fvertical-jump-test.ipynb)
+### Launch using: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annabednarska/Vertical-Jump-Test/HEAD?urlpath=voila%2Frender%2Fvertical-jump-test.ipynb) 
+<sup>(please be patient, server needs few minutes during first start)</sup>
 
-
-
-If you run into problems, have questions or ideas for improvements / additional features, feel free to contact me: anna.b.bednarska@gmail.com
-
-----
 
 ### ABOUT
 
@@ -25,10 +21,12 @@ Sample files are available in _test_files_ folder.
 
 
 1. In Select jump type field choose jump type which you want to test (Squat jump or Counter movement jump)
-2. In Upload files for first trial, select from your drive .xlsx files with data for entire group performing first trial.
-3. In Upload files for second trial, select from your drive .xlsx files with data for entire group performing second trial.
+2. In Upload files for first trial, select from your drive .xlsx files with data for entire group performing first trial. Click 'OK' button.
+3. In Upload files for second trial, select from your drive .xlsx files with data for entire group performing second trial. Click 'OK' button.
 4. Click 'RUN TEST' to see the results of SPM test - plots and intervals where differences occurred. IMPORTANT! Minimum size of each group to perform the test is 2.
 
 ---
+
+If you run into problems, have questions or ideas for improvements / additional features, feel free to contact me: anna.b.bednarska@gmail.com
 
 Test designed in cooperation with [Amit Batra](https://amitbatra.pl/) 

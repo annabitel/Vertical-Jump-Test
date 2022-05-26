@@ -1,5 +1,5 @@
 ### Launch using: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annabednarska/Vertical-Jump-Test/HEAD?urlpath=voila%2Frender%2Fvertical-jump-test.ipynb) 
-<sup>(please be patient, server needs few minutes during first start)</sup>
+<sup>(please be patient, server needs few minutes to start)</sup>
 
 
 ### ABOUT
